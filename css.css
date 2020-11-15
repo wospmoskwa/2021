@@ -25,8 +25,8 @@ body {margin:0px; padding:0px; font-family:Arial Narrow, sans-serif; background-
 .contacts a {color:#337ab7; display:block; height:14px;}
 .contacts a.face {background:url(img/face.png) no-repeat; padding-left: 48px; line-height:42px; height: 42px; text-decoration:none;}
 .contacts a.wosp {background:url(img/wosp_s.png) no-repeat; padding-left: 48px; line-height:42px; height: 42px; text-decoration:none;}
-.contacts a:hover { 
--webkit-transition: opacity:0.6 1s ease-in-out;
-        -moz-transition: opacity:0.6 1s ease-in-out;
-        -ms-transition: opacity:0.6 1s ease-in-out;
-        transition: opacity:0.6 1s ease-in-out;}
+.contacts a:hover { opacity:0.6;
+-webkit-transition: opacity 1s ease-in-out;
+        -moz-transition: opacity 1s ease-in-out;
+        -ms-transition: opacity 1s ease-in-out;
+        transition: opacity 1s ease-in-out;}
