@@ -21,7 +21,7 @@ body {margin:0px; padding:0px; font-family:Arial Narrow, sans-serif; background-
  -moz-transform: scale(1.4);
  -o-transform: scale(1.4);
  } 
-.contacts {text-align:left; font-size:13px; color:#337ab7;}
+.contacts {text-align:left; font-size:13px; color:#337ab7; margin-bottom:20px;}
 .contacts a {color:#337ab7; display:block; height:14px;}
 .contacts a.face {background:url(img/face.png) no-repeat; padding-left: 48px; line-height:42px; height: 42px; text-decoration:none;}
 .contacts a.wosp {background:url(img/wosp_s.png) no-repeat; padding-left: 48px; line-height:42px; height: 42px; text-decoration:none;}
