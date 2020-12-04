@@ -8,7 +8,7 @@ body {margin:0px; padding:0px;  background-color:#f1f1f1; color:#444; font-famil
 .banner {background-color:#00305B; background-image: url(img/sztab_04.png); background-position:top center; background-repeat:no-repeat; height:300px; text-align:center;}
  .topmenu {font-size:17px; font-family:Arial Narrow, sans-serif; text-align:left; text-transform:uppercase; color:#444; margin:auto; text-align:left; padding-top:12px; max-width:960px;  padding-bottom: 10px;}
  .main-container {margin:auto; padding-top:5px; text-align:center; max-width:960px; }   
-.anonce {font-size:14px; font-family:Helvetica, 'Trebuchet MS'; line-height:24px; padding: 10px 0px; text-align: left;}
+.anonce {font-size:13px; font-family:Helvetica, 'Trebuchet MS'; line-height:24px; padding: 10px 0px; text-align: left;}
 .anonce a {color:#00305B;}
 .topmenu a {display:inline block; text-decoration:none; margin:11px 0px 11px 0px; color:#444; }
 .topmenu a:hover {opacity:0.8; transition:0.8s;}
@@ -36,16 +36,4 @@ body {margin:0px; padding:0px;  background-color:#f1f1f1; color:#444; font-famil
 .contacts a.face {background:url(img/face.png) no-repeat; padding-left: 48px; line-height:42px; height: 42px; text-decoration:none; margin-bottom:5px;}
 .contacts a.wosp {background:url(img/wosp_s.png) no-repeat; padding-left: 48px; line-height:42px; height: 42px; text-decoration:none;}
 .mask {background: url(img/mask.png) no-repeat; padding-left: 50px; height:48px; }
-.map {border:1px solid #ccc;}
-    
-  /*@media (max-width:640px)  {
-   .banner { background-image: url(img/111_770.png); height:189px;}
-   .topmenu {font-size:17px;  min-width:768px;}
-   .main-container {margin:auto; padding-top:5px; text-align:center; min-width:580px; }       
-      }
-   @media (max-width:320px) {
-  .banner { background-image: url(img/111_320.png); height:204px;}
-.topmenu {font-size:14px; min-width:320px;  }
- .main-container {margin:auto; padding-top:5px; text-align:center; min-width:320px;}     
- .goods {min-width:320px;}*/
-      
+.map {border:1px solid #ccc;}  
