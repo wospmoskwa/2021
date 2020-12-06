@@ -28,6 +28,7 @@ body {margin:0px; padding:0px;  background-color:#f1f1f1; color:#444; font-famil
  -moz-transform: scale(1.4);
  -o-transform: scale(1.4);
  } 
+.rezerw {background: url(img/rezerw.png) no-repeat; width: 166px; height: 200px; position: absolute; z-index: 2; top:5px; left:5px;}
 .contacts {text-align:left; font-size:15px; color:#337ab7; margin-bottom:20px;}
 .contacts a {color:#337ab7; display:block; opacity:1;
 -webkit-transition: opacity 1s ease-in-out;
