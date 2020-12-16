@@ -35,21 +35,6 @@ body {margin:0px; padding:0px;  background-color:#f1f1f1; color:#444; font-famil
  -o-transform: scale(2.3);
  }
 
-
-.book-03 { font-size:13px; width:270px; height:300px; margin:15px 30px 15px 0px; text-align:center; border:1px solid #ccc; float:left; display:inline-block; background:#fff; }
-.book-03 img {margin:10px auto; height:180px;}
-.book-03 b {display:block; padding:0px 0px 5px 0px;}
-.book-03 i {color:#337ab7; font-size:14px;}
-.book-03 img  {
- -moz-transition: all 1s ease-out; 
- -o-transition: all 1s ease-out;
- -webkit-transition: all 1s ease-out; } 
- .book-03 img:hover{
- -webkit-transform: scale(1.8);
- -moz-transform:  scale(1.8);
- -o-transform:  scale(1.8);
- } 
-
 .rezerw {background: url(img/rezerw.png) no-repeat; width: 166px; height: 200px; position: absolute; z-index: 2; top:5px; left:5px;}
 .contacts {text-align:left; font-size:15px; color:#337ab7; margin-bottom:20px;}
 .contacts a {color:#337ab7; display:block; opacity:1;
@@ -62,6 +47,4 @@ body {margin:0px; padding:0px;  background-color:#f1f1f1; color:#444; font-famil
 .contacts a.wosp {background:url(img/wosp_s.png) no-repeat; padding-left: 48px; line-height:42px; height: 42px; text-decoration:none; float: left; margin-left: 20px;}
 .mask {background: url(img/mask.png) no-repeat; padding-left: 50px; min-height:  height:48px; }
 .map {border:1px solid #ccc;}
-a.eskarbonka {background: url(img/e_skarbonka.png) no-repeat top left; padding-left:240px; padding-top:10px; margin:25px 0px 1px 0px; height: 80px; display: block; transition:0.5s;}
-a.eskarbonka:hover {text-decoration:none; opacity:0.8;}
-.red {color:#d00; font-size:24px;}
+.eskarbonka {background: url(img/e_skarbonka.png) no-repeat top left; padding-left:240px; margin:25px 0px 1px 0px;}
