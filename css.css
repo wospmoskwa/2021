@@ -61,6 +61,6 @@ html {scroll-behavior: smooth;}
 .contacts a.wosp {background:url(img/wosp_s.png) no-repeat; padding-left: 48px; line-height:42px; height: 42px; text-decoration:none; float: left; margin-left: 20px;}
 .mask {background: url(img/mask.png) no-repeat; padding-left: 50px; min-height:  height:48px; }
 .map {border:1px solid #ccc;}
-a.eskarbonka {background: url(img/e_skarbonka_ak_w.png) no-repeat top left; padding-left:320px; padding-top:10px; margin:25px 0px 1px 0px; height: 155px; display: block; transition:0.5s;}
+a.eskarbonka {background: url(img/e_skarbonka_ak_w.png) no-repeat top left; padding-left:320px; padding-top:10px; margin:25px 0px 1px 0px; height:72px; display: block; transition:0.5s;}
 a.eskarbonka:hover {text-decoration:none; opacity:0.8;}
 .red {color:#d00; font-size:24px;}
