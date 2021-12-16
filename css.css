@@ -35,7 +35,7 @@ html {scroll-behavior: smooth;}
  -o-transform: scale(2.3);
  }
 
-.book-03 { font-size:12px; width:320px; height:440px; margin:15px 30px 15px 0px; text-align:center; border:1px solid #ccc; float:left; display:inline-block; background:#fff; }
+.book-03 { font-size:12px; width:310px; height:440px; margin:15px 20px 15px 0px; text-align:center; border:1px solid #ccc; float:left; display:inline-block; background:#fff; }
 .book-03 img {margin:10px auto; height:300px;}
 .book-03 b {display:block; padding:0px 0px 5px 0px;}
 .book-03 i {color:#337ab7; font-size:13px;display:block; line-height:16px;}
