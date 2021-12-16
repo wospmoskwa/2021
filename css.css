@@ -38,7 +38,7 @@ html {scroll-behavior: smooth;}
 .book-03 { font-size:12px; width:300px; height:450px; margin:15px 30px 15px 0px; text-align:center; border:1px solid #ccc; float:left; display:inline-block; background:#fff; }
 .book-03 img {margin:10px auto; height:300px;}
 .book-03 b {display:block; padding:0px 0px 5px 0px;}
-.book-03 i {color:#337ab7; font-size:13px;display:block;}
+.book-03 i {color:#337ab7; font-size:13px;display:block; line-height:16px;}
 .book-03 .payment {color:#d00; line-height:16px; display:block;} 
 .book-03 img  {
  -moz-transition: all 1s ease-out; 
