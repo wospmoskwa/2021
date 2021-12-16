@@ -35,8 +35,8 @@ html {scroll-behavior: smooth;}
  -o-transform: scale(2.3);
  }
 
-.book-03 { font-size:13px; width:270px; height:300px; margin:15px 30px 15px 0px; text-align:center; border:1px solid #ccc; float:left; display:inline-block; background:#fff; }
-.book-03 img {margin:10px auto; height:180px;}
+.book-03 { font-size:13px; width:270px; height:350px; margin:15px 30px 15px 0px; text-align:center; border:1px solid #ccc; float:left; display:inline-block; background:#fff; }
+.book-03 img {margin:10px auto; height:300px;}
 .book-03 b {display:block; padding:0px 0px 5px 0px;}
 .book-03 i {color:#337ab7; font-size:14px;}
 .book-03 img  {
@@ -44,9 +44,9 @@ html {scroll-behavior: smooth;}
  -o-transition: all 1s ease-out;
  -webkit-transition: all 1s ease-out; } 
  .book-03 img:hover{
- -webkit-transform: scale(1.8);
- -moz-transform:  scale(1.8);
- -o-transform:  scale(1.8);
+ -webkit-transform: scale(1.7);
+ -moz-transform:  scale(1.7);
+ -o-transform:  scale(1.7);
  } 
 
 .rezerw {background: url(img/rezerw.png) no-repeat; width: 166px; height: 200px; position: absolute; z-index: 2; top:5px; left:5px;}
