@@ -39,7 +39,7 @@ html {scroll-behavior: smooth;}
 .book-03 img {margin:10px auto; height:300px;}
 .book-03 b {display:block; padding:0px 0px 5px 0px;}
 .book-03 i {color:#337ab7; font-size:13px;display:block;}
-.book-03 .payment {color:#d00;} 
+.book-03 .payment {color:#d00; line-height:16px; display:block;} 
 .book-03 img  {
  -moz-transition: all 1s ease-out; 
  -o-transition: all 1s ease-out;
