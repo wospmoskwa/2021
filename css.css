@@ -15,7 +15,7 @@ html {scroll-behavior: smooth;}
 .topmenu a {display:inline block; text-decoration:none; margin:11px 0px 11px 0px; color:#444; }
 .topmenu a:hover {opacity:0.8; transition:0.8s;}
 .topmenu a.face {color:#337ab7 !important;}
-.topmenu a.home {display:inline-block; width:18px; height:13px; margin:0px 0px 0px 0px; background:url(img/home1.png) no-repeat;}
+.topmenu a.home {display:inline-block; width:18px; height:16px; margin:0px 0px 0px 0px; background:url(img/home1.png) no-repeat;}
 .goods {margin:10px auto 15px auto; text-align:center; max-width:960px; min-width:580px;}
 .book-01 { font-size:13px; width:200px; height:280px; margin:15px 30px 15px 0px; text-align:center; border:1px solid #ccc; float:left; display:inline-block; background:#fff; }
 .book-01 img {margin:10px auto; height:200px;}
